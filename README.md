@@ -9,7 +9,7 @@ Track progress on my tech skill goals
     - [x] Lesson 4: Working with Data
     - [x] Lesson 5: Giving Your Microservice a REST
     - [x] Lesson 6: Data Synchronization and Processing
-    - [ ] Lesson 7: Creating Operations-Friendly Microservices
+    - [x] Lesson 7: Creating Operations-Friendly Microservices
     - [ ] Lesson 8: Edge Services and Routing
     - [ ] Lesson 9: Operations at Scale
     - [ ] Lesson 10: Developing Web Applications
