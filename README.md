@@ -14,7 +14,7 @@ Track progress on my tech skill goals
     - [x] Lesson 9: Operations at Scale
     - [x] Lesson 10: Developing Web Applications
     - [x] Lesson 11: Securing Microservices with Spring Security
-    - [ ] Lesson 12: Testing Microservices
+    - [x] Lesson 12: Testing Microservices
     - [ ] Lesson 13: Extending Spring Boot
     - [ ] Lesson 14: IDE and Tooling Support
 
