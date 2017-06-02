@@ -2,7 +2,7 @@
 Track progress on my tech skill goals
 
 - [ ] Learn Spring Boot
-  - [ ] Watch [Building Microservices with Spring Boot, Second Edition](https://www.safaribooksonline.com/library/view/building-microservices-with/9780134678658/BMSB_05_00.html) 
+  - [x] Watch [Building Microservices with Spring Boot, Second Edition](https://www.safaribooksonline.com/library/view/building-microservices-with/9780134678658/BMSB_05_00.html) 
     - [x] Lesson 1: Bootstrapping
     - [x] Lesson 2: Using “Twelve-Factor App” Style Configuration
     - [x] Lesson 3: Reaching for the Clouds
@@ -15,8 +15,8 @@ Track progress on my tech skill goals
     - [x] Lesson 10: Developing Web Applications
     - [x] Lesson 11: Securing Microservices with Spring Security
     - [x] Lesson 12: Testing Microservices
-    - [ ] Lesson 13: Extending Spring Boot
-    - [ ] Lesson 14: IDE and Tooling Support
+    - [x] Lesson 13: Extending Spring Boot
+    - [x] Lesson 14: IDE and Tooling Support
 
   - [ ] Build Spring Boot applications
   
